@@ -3,7 +3,7 @@
   "description": "An Application that offers a way to save in sats!",
   "homepage": "TBD",
   "author": "Pat Scopes <patscopes@chorebit.com>",
-  "license": "Open-source",
+  "license": "The MIT License (MIT)",
   "maintainer": "Pat Scopes",
   "type": "commonjs",
   "version": "0.1.0",
